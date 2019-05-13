@@ -13,3 +13,6 @@
 ### Screenshots
 
 ![Alt text](https://github.com/Senthilarun-Sparkout/PhotoEditingLikeWhatsapp/blob/master/Screenshot.png "Edit")
+![Alt text](https://github.com/sparkouttech/Android-DoodleLikeinWhatsapp/blob/master/Screenshot1.png "Edit")
+![Alt text](https://github.com/sparkouttech/Android-DoodleLikeinWhatsapp/blob/master/Screenshot2.png "Edit")
+![Alt text](https://github.com/sparkouttech/Android-DoodleLikeinWhatsapp/blob/master/Screenshot3.png "Edit")
