@@ -12,4 +12,4 @@
 	
 ### Screenshots
 
-![Alt text](https://github.com/sparkouttech/GroupNotificationsample/blob/master/IMG_2719.PNG "Login")
+![Alt text](https://github.com/Senthilarun-Sparkout/PhotoEditingLikeWhatsapp/blob/master/Screenshot.png "Edit")
