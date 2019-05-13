@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ImagePickActivity">
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:background="#f5a623"
+        android:text="Photo Editing App"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_pick_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Pick Image" />
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/img_picked"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@id/btn_pick_image"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="25dp" />
+
+</RelativeLayout>
